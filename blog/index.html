@@ -2,10 +2,9 @@
 layout: page
 title: -N-
 subtitle: Piotrellum's blog
-use-site-title: true
 ---
 
-
+<meta property="og:image" content="{{ post.thumbnail }}">
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
