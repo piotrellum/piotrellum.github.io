@@ -260,7 +260,7 @@ img {
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #eaeaea;
+    border: 1px solid #89bccc56;
     border-width: 0 1px 1px;
   }
 }
@@ -309,7 +309,7 @@ footer .theme-by {
     font-size: 18px;
   }
   footer .copyright {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 
@@ -353,7 +353,7 @@ footer .theme-by {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 18px;
+  font-size: 14px;
   font-style: italic;
   margin: 0 0 10px;
 }
@@ -530,10 +530,10 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 48px;
+    font-size: 32px;
   }
   .intro-header .post-heading h1 {
-    font-size: 50px;
+    font-size: 32px;
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;
