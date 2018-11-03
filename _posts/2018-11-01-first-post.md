@@ -14,10 +14,10 @@ Your site will be hosted at username.github.io, but a custom domain can be confi
 ## Basic requirements 
 
 + a GitHub account
-+ notions of file version control with Git (a tutorial is given [here](http://www.vogella.com/tutorials/Git/article.html))
++ notions of file version control with Git (if you ar new to Git a tutorial is given [here](http://www.vogella.com/tutorials/Git/article.html))
 + some knowledge of [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or HTML and Jekyll
 
-In principle, no local software installation is required; to work locally with your preferred text editor, e.g. Visual Studio Code, install Git. 
+In principle, no software installation is required; to work locally with your preferred text editor, e.g. Visual Studio Code, you have to install Git. 
 
 ## Limitations
 
