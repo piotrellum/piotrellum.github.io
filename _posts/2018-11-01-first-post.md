@@ -3,6 +3,7 @@ layout: post
 title: A fast track to a personal website and blog
 subtitle: for programmers and the like 
 tags: [website, blogging]
+comments: true
 ---
 Creating a simple internet presence is a very simple task with [GitHub pages](https://pages.github.com/), also for non programmers. The service offers an easy way to get your online presence up and running that won't cost you more than your time. However, depending on your background and familiarity with [Git](https://git-scm.com/)  and [Jekyll](https://jekyllrb.com/), mastering the details may require some effort. 
 
