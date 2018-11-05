@@ -24,7 +24,7 @@ description: personal website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "blog"
+#  Blog: "blog"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -144,7 +144,7 @@ title-separator: "-"
 #pagination
 gems: [jekyll-paginate]
 paginate: 5
-paginate_path: "blog/page:num"
+#paginate_path: "blog/page:num"
 
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
